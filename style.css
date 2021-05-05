@@ -3,6 +3,8 @@ body{padding: 0%; margin: 0%;}
 
 .b1{color: white; font-size: px;  background-color: #b8b5ff; position: absolute; margin-top: 25vw; margin-left: 38vw; padding: 3% 8% 3% 8%; border-radius: 20px;  }
 
+.b1:hover,.b2:hover{background-color: #7868e6;}
+
 .b2{color: white; font-size: m; background-color: #B8B5FF; position: absolute; margin-top: 35vw; margin-left: 38vw; padding: 3% 8% 3% 10%; border-radius: 20px; }
 
 .logo{position:absolute; margin-left: 40vw; margin-top: -90vh; } 
