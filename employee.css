@@ -8,6 +8,7 @@ body{
     font-size: 35px;
     font-weight: bold;
     color: #7868e6;
+    text-align: center;
 }
 .form{
     margin-left:200px;
@@ -42,4 +43,8 @@ button{
     border-radius: 40px;
     font-size: 25px;
     padding: 30px;
+
+}
+button:hover{
+    background-color:#7868e6 ;
 }
