@@ -1,6 +1,8 @@
 body{
     padding: 0%;
     margin: 0%;
+    overflow-y: hidden;
+    overflow-x: hidden;
   }
 
 
@@ -9,7 +11,7 @@ body{
     background-repeat: no-repeat;
     background-size: 1290px;
   width: 1300px;
-  height: 600px;
+  height: 700px;
   border: 0px;
   margin-top: -10vh;
 }
@@ -76,3 +78,12 @@ button:hover {
         clear: both;
         display: table;
       }
+
+h1{
+  margin-top: 1%;
+}
+.tag{
+  font-size: 47px;
+  margin-top: 0%;
+  color: #7868e6;
+}
