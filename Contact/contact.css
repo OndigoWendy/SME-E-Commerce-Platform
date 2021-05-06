@@ -1,0 +1,93 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    background-color: #E4FBFF;
+  }
+  .navigationBar{
+    position: fixed;
+    width: 100%;
+    color: white;
+  }
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    border: 0px solid rgb(255, 255, 255);
+    background-color: #7868E6;
+    font-size: 3vw;
+  }
+  a{
+    /* text-decoration: none; */
+    color: white;
+  }
+  
+  li {
+    display: inline;
+    padding: 6%;
+    color: white;
+  
+  }
+  li:hover{
+  background-color: #DBBEBE;
+  padding: 6% 6% 0% 6%;
+  }
+  
+
+ main{
+     margin-left:38%;
+     padding-top:10%;
+    }
+
+.form1{
+    height: 2%;
+    color: #7868E6;;
+}
+.form2{
+    height: 5%;
+    color: #7868E6;;
+    padding-top: 4%;
+}
+.form3{
+    height: 5%;
+    color: #7868E6;
+    padding-top: 4%;
+}
+
+
+  
+
+
+  
+  a {
+    display: inline;
+  }
+
+  .wendy{
+
+        display: flex;
+        flex-direction: left;
+        justify-content: space-around;
+        margin-left: 0%;
+        
+      }
+  .sultan{
+
+        display: flex;
+        flex-direction: left;
+        justify-content: space-around;
+        padding: left 5%;;
+        margin-left:0%;
+      }
+  .kimani{
+    display: flex;
+        flex-direction: left;
+        justify-content: space-around;
+        padding-left: 5%;
+      }
+.wicky{
+display: flex;
+        flex-direction: left;
+        justify-content: space-around;
+        padding-left: 5%;
+
+}
