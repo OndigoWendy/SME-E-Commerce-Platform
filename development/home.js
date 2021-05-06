@@ -1,11 +1,11 @@
 function changeBg(){
     const images =[
-        'url("images/ovinuchi-ejiohuo-vaOosG1lgGE-unsplash.jpg")',
-        'url("images/carlos-magno-UIx_m6opA1E-unsplash.jpg")',
-        'url("images/cnn.jpg")',
-        'url("images/howard-chin-F_nmxz8Z9Sk-unsplash.jpg")',
-        'url("images/pexels-dazzle-jam-2710063.jpg")',
-        'url("images/pexels-dazzle-jam-1038041.jpg")',
+        'url("home-images/ovinuchi-ejiohuo-vaOosG1lgGE-unsplash.jpg")',
+        'url("home-images/carlos-magno-UIx_m6opA1E-unsplash.jpg")',
+        'url("home-images/cnn.jpg")',
+        'url("home-images/howard-chin-F_nmxz8Z9Sk-unsplash.jpg")',
+        'url("home-images/pexels-dazzle-jam-2710063.jpg")',
+        'url("home-images/pexels-dazzle-jam-1038041.jpg")',
         
     ]
     const section = document.querySelector('section');
