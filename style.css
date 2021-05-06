@@ -1,5 +1,6 @@
 body{padding: 0%; margin: 0%;}
-.landingPage{background-color: #EFFBFF ; height: 100vh;}
+
+.landingPage{ background-color: black; height: 100vh;}
 
 .b1{color: white; font-size: px;  background-color: #b8b5ff; position: absolute; margin-top: 25vw; margin-left: 38vw; padding: 3% 8% 3% 8%; border-radius: 20px;  }
 
