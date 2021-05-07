@@ -34,9 +34,9 @@ padding: 6% 6% 0% 6%;
 }
   
  .box{
-     margin-left:38%;
-     padding-top:10%;
-     border:1px solid white;
+     margin-left:35%;
+     padding-top:20vh;
+     border:0px solid white;
      width: 30vw;
     
     
@@ -59,30 +59,3 @@ padding: 6% 6% 0% 6%;
 }
 
 
-.wendy{
-        display: flex;
-        flex-direction: left;
-        justify-content: space-around;
-        margin-left: 0%;
-        }
-  
- .sultan{
-        display: flex;
-        flex-direction: left;
-        justify-content: space-around;
-        padding: left 5%;;
-        margin-left:0%;
-      }
-.kimani{
-        display: flex;
-        flex-direction: left;
-        justify-content: space-around;
-        padding-left: 5%;
-      }
-
-.wicky{
-        display: flex;
-        flex-direction: left;
-        justify-content: space-around;
-        padding-left: 5%;
-}
